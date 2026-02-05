@@ -1,7 +1,0 @@
-S:\454-ИСП\Уланбек\07.02\2\2\bin\Debug\2.exe.config
-S:\454-ИСП\Уланбек\07.02\2\2\bin\Debug\2.exe
-S:\454-ИСП\Уланбек\07.02\2\2\bin\Debug\2.pdb
-S:\454-ИСП\Уланбек\07.02\2\2\obj\Debug\2.csproj.AssemblyReference.cache
-S:\454-ИСП\Уланбек\07.02\2\2\obj\Debug\2.csproj.CoreCompileInputs.cache
-S:\454-ИСП\Уланбек\07.02\2\2\obj\Debug\2.exe
-S:\454-ИСП\Уланбек\07.02\2\2\obj\Debug\2.pdb
